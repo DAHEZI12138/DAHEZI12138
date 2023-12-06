@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=1E698A&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=I+am+a+master's+graduate+seeking+opportunities+to+pursue+a+doctoral+degree.;Have+a++nice+day!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1E698A&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=I+am+a+master's+graduate+seeking+opportunities+to+pursue+a+doctoral+degree.;Have+a++nice+day!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on how to enhance human-computer interaction experience using brain-machine interfaces.
 <p float="left">
