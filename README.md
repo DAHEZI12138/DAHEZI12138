@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Dahezi's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=DAHEZI12138&show_icons=true&count_private=true&theme=gotham)
+
 <!--
 **DAHEZI12138/DAHEZI12138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
