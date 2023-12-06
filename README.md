@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on ...
 ![Dahezi's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DAHEZI12138&layout=compact&hide_border=true&langs_count=10)
-<!--
+![Dahezi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DAHEZI12138)
 **DAHEZI12138/DAHEZI12138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
